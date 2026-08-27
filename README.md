@@ -7,7 +7,7 @@ Tras 4 años viviendo en Corea del Sur y dirigiendo mi propia academia, volví a
 ---
 
 ## 💡 Sobre mí
-- 🌍 **Background:** Emprender en el extranjero me enseñó a ser flexible, resolver problemas bajo presión y comunicarme con personas de todo tipo de culturas.
+- 🌍 **Background:** Emprendí en el extranjero me enseñó a ser flexible, resolver problemas bajo presión y comunicarme con personas de todo tipo de culturas.
 - 🚀 **Mi enfoque actual:** Me encanta combinar la lógica del desarrollo con el uso de herramientas de IA para construir productos funcionales y resolver retos reales.
 - 🎯 **En constante evolución:** No me da miedo salir de mi zona de confort; busco aprender buenas prácticas, colaborar con otros desarrolladores y definir el área técnica donde aportar más valor.
 
@@ -33,7 +33,7 @@ Tras 4 años viviendo en Corea del Sur y dirigiendo mi propia academia, volví a
 ## 📬 ¡Hablemos!
 Estoy siempre abierto/a a conectar, colaborar o simplemente charlar sobre tecnología, aprendizaje o experiencia internacional.
 
-- **LinkedIn:** 
+- **LinkedIn:** www.linkedin.com/in/esperanzaaragon
 - **Email:** esperanza97.ac@gmail.com
 <!--
 **esperanza97ac/esperanza97ac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
