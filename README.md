@@ -15,7 +15,7 @@ Tras 4 años viviendo en Corea del Sur y dirigiendo mi propia academia, volví a
 
 ## 🛠️ Stack & Aprendizaje
 **Tecnologías con las que estoy trabajando:**
-- **Lenguajes y Web:** HTML5, CSS3, JavaScript, Git / GitHub
+- **Lenguajes y Web:** HTML5, CSS3, JavaScript, Git / GitHub, Python
 - **Innovación:** Aplicación e integración de herramientas de IA en flujos de desarrollo
 
 ---
