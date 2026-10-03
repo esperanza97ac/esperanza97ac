@@ -1,51 +1,56 @@
 # ¡Hola, soy Esperanza! 👋
 
-¡Bienvenid@ a mi perfil de GitHub! 
+### 🚀 Full-Stack Developer & AI Solutions Specialist
 
-Tras 4 años viviendo en Corea del Sur y dirigiendo mi propia academia, volví a España con las ganas de dar un giro a mi carrera. Descubrí el mundo de la tecnología y cuanto más aprendo y creo, más me apasiona este sector.
-
----
-
-## 💡 Sobre mí
-- 🌍 **Background:** Emprendí en el extranjero me enseñó a ser flexible, resolver problemas bajo presión y comunicarme con personas de todo tipo de culturas.
-- 🚀 **Mi enfoque actual:** Me encanta combinar la lógica del desarrollo con el uso de herramientas de IA para construir productos funcionales y resolver retos reales.
-- 🎯 **En constante evolución:** No me da miedo salir de mi zona de confort; busco aprender buenas prácticas, colaborar con otros desarrolladores y definir el área técnica donde aportar más valor.
+Uniendo la **programación web sólida** con la **innovación en Inteligencia Artificial** y la **digitalización empresarial** para crear productos digitales modernos, escalables y eficientes.
 
 ---
 
-## 🛠️ Stack & Aprendizaje
-**Tecnologías con las que estoy trabajando:**
-- **Lenguajes y Web:** HTML5, CSS3, JavaScript, Git / GitHub, Python
-- **Innovación:** Aplicación e integración de herramientas de IA en flujos de desarrollo
+### 💡 Sobre mí
+
+- 💻 **Desarrollo Full-Stack:** Creación de aplicaciones web end-to-end con arquitecturas limpias y funcionales.
+- 🤖 **Integración de IA & Digitalización:** Automatización de procesos de negocio e integración de modelos e Inteligencia Artificial en productos digitales.
+- 🎓 **Formación intensiva:**
+  - Bootcamp en **Full-Stack Web Development**
+  - Bootcamp en **Digitalización Empresarial e Inteligencia Artificial**
 
 ---
 
-## 📂 Proyectos
-- **https://simva-oficial.vercel.app/**: Proyecto desarrollado durante mi formación en IA y digitalización empresarial. Aplicación totalmente funcional diseñada para solucionar los olvidos del mantenimiento de tus vehículos.
+### 🛠️ Tech Stack & Herramientas
+
+#### **Frontend & Backend**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### **Bases de Datos & Herramientas**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44D26?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+#### **Digitalización e IA**
+![OpenAI](https://img.shields.io/badge/OpenAI_APIs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![AI Integration](https://img.shields.io/badge/IA_&_Prompt_Engineering-008080?style=for-the-badge)
 
 ---
 
-## 📊 Mi actividad
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=dracula)
+### 📈 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=radial&count_private=true" alt="Estadísticas de GitHub" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=TU_USUARIO_GITHUB&layout=compact&theme=radial" alt="Lenguajes más usados" />
+</p>
 
 ---
 
-## 📬 ¡Hablemos!
-Estoy siempre abierto/a a conectar, colaborar o simplemente charlar sobre tecnología, aprendizaje o experiencia internacional.
+### 📫 Contacto y Redes
 
-- **LinkedIn:** www.linkedin.com/in/esperanzaaragon
-- **Email:** esperanza97.ac@gmail.com
-<!--
-**esperanza97ac/esperanza97ac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_EMAIL@ejemplo.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://TU_PORTFOLIO.com)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
